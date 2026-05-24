@@ -15,8 +15,8 @@ SEQUENCE:0
 DTSTART:20260524T170000
 DTEND:20260524T180000
 LOCATION:UBC Life Building\, 6138 Student Union Blvd\, Vancouver\, BC
-DESCRIPTION:Created to test whether Apple Calendar interprets LOCATION from
-  a LifeOS subscription feed.
+DESCRIPTION:calendar-test\nCreated to test whether Apple Calendar interpret
+ s LOCATION from a LifeOS subscription feed.\nFlexibility fixed
 TRANSP:OPAQUE
 CATEGORIES:apple-test-calendar
 STATUS:CONFIRMED
