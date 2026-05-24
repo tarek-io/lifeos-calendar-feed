@@ -5,4 +5,20 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Course Timetable
 X-WR-TIMEZONE:America/Vancouver
+BEGIN:VEVENT
+UID:course-timetable-travel-test-2026-05-25-1000@lifeos.local
+DTSTAMP:20260524T161300
+SUMMARY:Test Course
+CREATED:20260524T161300
+LAST-MODIFIED:20260524T161300
+SEQUENCE:0
+DTSTART:20260525T100000
+DTEND:20260525T110000
+LOCATION:BIOL 1000\, University of British Columbia\, Vancouver
+DESCRIPTION:event\nTemporary travel time rendering test. Origin: 2645 West 
+ 8th Avenue\, Vancouver. Transit assumption: 99 bus when relevant.
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,event
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
