@@ -329,15 +329,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:course-timetable-apsc-262-apsc-262-lecture-wed-late-2026-05-27@lifeos.l
  ocal
-DTSTAMP:20260524T225025
+DTSTAMP:20260524T225828
 SUMMARY:APSC 262 T14
 CREATED:20260518T170000
-LAST-MODIFIED:20260524T225025
-SEQUENCE:10
+LAST-MODIFIED:20260524T225828
+SEQUENCE:12
 DTSTART:20260527T180000
 DTEND:20260527T193000
 LOCATION:Zoom meeting 674 9659 5029
-URL:asda
+URL:https://canvas.ubc.ca/courses/186801/external_tools/66459
 DESCRIPTION:course\nAPSC 262 APSC 262 T14\nTutorial via Online Learning\nAP
  SC 262 tutorial\, Group 14. Meeting ID 674 9659 5029.\nGenerated from cour
  se meeting apsc-262-lecture-wed-late. Update this occurrence if a newer an
