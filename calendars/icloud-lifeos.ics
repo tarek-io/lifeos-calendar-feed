@@ -320,15 +320,14 @@ DTSTAMP:20260524T225828
 SUMMARY:APSC 262 T14
 CREATED:20260518T170000
 LAST-MODIFIED:20260524T225828
-SEQUENCE:13
+SEQUENCE:14
 DTSTART:20260527T180000
 DTEND:20260527T193000
+LOCATION:Zoom meeting 674 9659 5029
 DESCRIPTION:course\nAPSC 262 APSC 262 T14\nTutorial via Online Learning\nAP
  SC 262 tutorial\, Group 14. Meeting ID 674 9659 5029.\nGenerated from cour
  se meeting apsc-262-lecture-wed-late. Update this occurrence if a newer an
- nouncement changes the time\, delivery\, or location.\n\n----( Video Call 
- )----\nhttps://canvas.ubc.ca/courses/186801/external_tools/66459\n---===--
- -
+ nouncement changes the time\, delivery\, or location.
 TRANSP:OPAQUE
 CATEGORIES:icloud-lifeos,course,apsc-262,course-timetable
 STATUS:CONFIRMED
