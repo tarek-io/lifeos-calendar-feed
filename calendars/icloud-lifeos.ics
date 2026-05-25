@@ -26,20 +26,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:course-timetable-stat-251-stat-251-lecture-tue-2026-05-12@lifeos.local
-DTSTAMP:20260524T225025
+DTSTAMP:20260524T233603
 SUMMARY:STAT 251 921
 CREATED:20260518T170000
-LAST-MODIFIED:20260524T225025
-SEQUENCE:4
+LAST-MODIFIED:20260524T233603
+SEQUENCE:5
 DTSTART:20260512T180000
-DTEND:20260512T205000
+DTEND:20260512T210000
 LOCATION:Biological Sciences Building (BIOL)\, Room 1000\, 6270 University 
  Boulevard\, Vancouver\, BC V6T 1Z4
 DESCRIPTION:course\nSTAT 251 STAT_V 251-921\nLecture via In Person Learning
- \nCanvas classroom page lists class time as 6:00pm to 8:50pm. Registration
-  still shows a 9:00pm window.\nGenerated from course meeting stat-251-lect
- ure-tue. Update this occurrence if a newer announcement changes the time\,
-  delivery\, or location.
+ \nCourse Timetable uses the formal 6:00pm to 9:00pm window. Canvas may sho
+ w the practical 8:50pm end time.\nGenerated from course meeting stat-251-l
+ ecture-tue. Update this occurrence if a newer announcement changes the tim
+ e\, delivery\, or location.
 TRANSP:OPAQUE
 CATEGORIES:icloud-lifeos,course,stat-251,course-timetable
 STATUS:CONFIRMED
@@ -103,20 +103,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:course-timetable-stat-251-stat-251-lecture-thu-2026-05-14@lifeos.local
-DTSTAMP:20260524T225025
+DTSTAMP:20260524T233603
 SUMMARY:STAT 251 921
 CREATED:20260518T170000
-LAST-MODIFIED:20260524T225025
-SEQUENCE:4
+LAST-MODIFIED:20260524T233603
+SEQUENCE:5
 DTSTART:20260514T180000
-DTEND:20260514T205000
+DTEND:20260514T210000
 LOCATION:Biological Sciences Building (BIOL)\, Room 1000\, 6270 University 
  Boulevard\, Vancouver\, BC V6T 1Z4
 DESCRIPTION:course\nSTAT 251 STAT_V 251-921\nLecture via In Person Learning
- \nCanvas classroom page lists class time as 6:00pm to 8:50pm. Registration
-  still shows a 9:00pm window.\nGenerated from course meeting stat-251-lect
- ure-thu. Update this occurrence if a newer announcement changes the time\,
-  delivery\, or location.
+ \nCourse Timetable uses the formal 6:00pm to 9:00pm window. Canvas may sho
+ w the practical 8:50pm end time.\nGenerated from course meeting stat-251-l
+ ecture-thu. Update this occurrence if a newer announcement changes the tim
+ e\, delivery\, or location.
 TRANSP:OPAQUE
 CATEGORIES:icloud-lifeos,course,stat-251,course-timetable
 STATUS:CONFIRMED
@@ -142,20 +142,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:course-timetable-stat-251-stat-251-lecture-tue-2026-05-19@lifeos.local
-DTSTAMP:20260524T225025
+DTSTAMP:20260524T233603
 SUMMARY:STAT 251 921
 CREATED:20260518T170000
-LAST-MODIFIED:20260524T225025
-SEQUENCE:4
+LAST-MODIFIED:20260524T233603
+SEQUENCE:5
 DTSTART:20260519T180000
-DTEND:20260519T205000
+DTEND:20260519T210000
 LOCATION:Biological Sciences Building (BIOL)\, Room 1000\, 6270 University 
  Boulevard\, Vancouver\, BC V6T 1Z4
 DESCRIPTION:course\nSTAT 251 STAT_V 251-921\nLecture via In Person Learning
- \nCanvas classroom page lists class time as 6:00pm to 8:50pm. Registration
-  still shows a 9:00pm window.\nGenerated from course meeting stat-251-lect
- ure-tue. Update this occurrence if a newer announcement changes the time\,
-  delivery\, or location.
+ \nCourse Timetable uses the formal 6:00pm to 9:00pm window. Canvas may sho
+ w the practical 8:50pm end time.\nGenerated from course meeting stat-251-l
+ ecture-tue. Update this occurrence if a newer announcement changes the tim
+ e\, delivery\, or location.
 TRANSP:OPAQUE
 CATEGORIES:icloud-lifeos,course,stat-251,course-timetable
 STATUS:CONFIRMED
@@ -219,20 +219,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:course-timetable-stat-251-stat-251-lecture-thu-2026-05-21@lifeos.local
-DTSTAMP:20260524T225025
+DTSTAMP:20260524T233603
 SUMMARY:STAT 251 921
 CREATED:20260518T170000
-LAST-MODIFIED:20260524T225025
-SEQUENCE:4
+LAST-MODIFIED:20260524T233603
+SEQUENCE:5
 DTSTART:20260521T180000
-DTEND:20260521T205000
+DTEND:20260521T210000
 LOCATION:Biological Sciences Building (BIOL)\, Room 1000\, 6270 University 
  Boulevard\, Vancouver\, BC V6T 1Z4
 DESCRIPTION:course\nSTAT 251 STAT_V 251-921\nLecture via In Person Learning
- \nCanvas classroom page lists class time as 6:00pm to 8:50pm. Registration
-  still shows a 9:00pm window.\nGenerated from course meeting stat-251-lect
- ure-thu. Update this occurrence if a newer announcement changes the time\,
-  delivery\, or location.
+ \nCourse Timetable uses the formal 6:00pm to 9:00pm window. Canvas may sho
+ w the practical 8:50pm end time.\nGenerated from course meeting stat-251-l
+ ecture-thu. Update this occurrence if a newer announcement changes the tim
+ e\, delivery\, or location.
 TRANSP:OPAQUE
 CATEGORIES:icloud-lifeos,course,stat-251,course-timetable
 STATUS:CONFIRMED
@@ -258,20 +258,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:course-timetable-stat-251-stat-251-lecture-tue-2026-05-26@lifeos.local
-DTSTAMP:20260524T225025
+DTSTAMP:20260524T233603
 SUMMARY:STAT 251 921
 CREATED:20260518T170000
-LAST-MODIFIED:20260524T225025
-SEQUENCE:5
+LAST-MODIFIED:20260524T233603
+SEQUENCE:6
 DTSTART:20260526T180000
-DTEND:20260526T205000
+DTEND:20260526T210000
 LOCATION:Biological Sciences Building (BIOL)\, Room 1000\, 6270 University 
  Boulevard\, Vancouver\, BC V6T 1Z4
 DESCRIPTION:course\nSTAT 251 STAT_V 251-921\nLecture via In Person Learning
- \nCanvas classroom page lists class time as 6:00pm to 8:50pm. Registration
-  still shows a 9:00pm window.\nGenerated from course meeting stat-251-lect
- ure-tue. Update this occurrence if a newer announcement changes the time\,
-  delivery\, or location.
+ \nCourse Timetable uses the formal 6:00pm to 9:00pm window. Canvas may sho
+ w the practical 8:50pm end time.\nGenerated from course meeting stat-251-l
+ ecture-tue. Update this occurrence if a newer announcement changes the tim
+ e\, delivery\, or location.
 TRANSP:OPAQUE
 CATEGORIES:icloud-lifeos,course,stat-251,course-timetable
 STATUS:CONFIRMED
@@ -335,20 +335,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:course-timetable-stat-251-stat-251-lecture-thu-2026-05-28@lifeos.local
-DTSTAMP:20260524T225025
+DTSTAMP:20260524T233603
 SUMMARY:STAT 251 921
 CREATED:20260518T170000
-LAST-MODIFIED:20260524T225025
-SEQUENCE:4
+LAST-MODIFIED:20260524T233603
+SEQUENCE:5
 DTSTART:20260528T180000
-DTEND:20260528T205000
+DTEND:20260528T210000
 LOCATION:Biological Sciences Building (BIOL)\, Room 1000\, 6270 University 
  Boulevard\, Vancouver\, BC V6T 1Z4
 DESCRIPTION:course\nSTAT 251 STAT_V 251-921\nLecture via In Person Learning
- \nCanvas classroom page lists class time as 6:00pm to 8:50pm. Registration
-  still shows a 9:00pm window.\nGenerated from course meeting stat-251-lect
- ure-thu. Update this occurrence if a newer announcement changes the time\,
-  delivery\, or location.
+ \nCourse Timetable uses the formal 6:00pm to 9:00pm window. Canvas may sho
+ w the practical 8:50pm end time.\nGenerated from course meeting stat-251-l
+ ecture-thu. Update this occurrence if a newer announcement changes the tim
+ e\, delivery\, or location.
 TRANSP:OPAQUE
 CATEGORIES:icloud-lifeos,course,stat-251,course-timetable
 STATUS:CONFIRMED
@@ -374,20 +374,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:course-timetable-stat-251-stat-251-lecture-tue-2026-06-02@lifeos.local
-DTSTAMP:20260524T225025
+DTSTAMP:20260524T233603
 SUMMARY:STAT 251 921
 CREATED:20260518T170000
-LAST-MODIFIED:20260524T225025
-SEQUENCE:4
+LAST-MODIFIED:20260524T233603
+SEQUENCE:5
 DTSTART:20260602T180000
-DTEND:20260602T205000
+DTEND:20260602T210000
 LOCATION:Biological Sciences Building (BIOL)\, Room 1000\, 6270 University 
  Boulevard\, Vancouver\, BC V6T 1Z4
 DESCRIPTION:course\nSTAT 251 STAT_V 251-921\nLecture via In Person Learning
- \nCanvas classroom page lists class time as 6:00pm to 8:50pm. Registration
-  still shows a 9:00pm window.\nGenerated from course meeting stat-251-lect
- ure-tue. Update this occurrence if a newer announcement changes the time\,
-  delivery\, or location.
+ \nCourse Timetable uses the formal 6:00pm to 9:00pm window. Canvas may sho
+ w the practical 8:50pm end time.\nGenerated from course meeting stat-251-l
+ ecture-tue. Update this occurrence if a newer announcement changes the tim
+ e\, delivery\, or location.
 TRANSP:OPAQUE
 CATEGORIES:icloud-lifeos,course,stat-251,course-timetable
 STATUS:CONFIRMED
@@ -451,20 +451,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:course-timetable-stat-251-stat-251-lecture-thu-2026-06-04@lifeos.local
-DTSTAMP:20260524T225025
+DTSTAMP:20260524T233603
 SUMMARY:STAT 251 921
 CREATED:20260518T170000
-LAST-MODIFIED:20260524T225025
-SEQUENCE:4
+LAST-MODIFIED:20260524T233603
+SEQUENCE:5
 DTSTART:20260604T180000
-DTEND:20260604T205000
+DTEND:20260604T210000
 LOCATION:Biological Sciences Building (BIOL)\, Room 1000\, 6270 University 
  Boulevard\, Vancouver\, BC V6T 1Z4
 DESCRIPTION:course\nSTAT 251 STAT_V 251-921\nLecture via In Person Learning
- \nCanvas classroom page lists class time as 6:00pm to 8:50pm. Registration
-  still shows a 9:00pm window.\nGenerated from course meeting stat-251-lect
- ure-thu. Update this occurrence if a newer announcement changes the time\,
-  delivery\, or location.
+ \nCourse Timetable uses the formal 6:00pm to 9:00pm window. Canvas may sho
+ w the practical 8:50pm end time.\nGenerated from course meeting stat-251-l
+ ecture-thu. Update this occurrence if a newer announcement changes the tim
+ e\, delivery\, or location.
 TRANSP:OPAQUE
 CATEGORIES:icloud-lifeos,course,stat-251,course-timetable
 STATUS:CONFIRMED
@@ -490,20 +490,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:course-timetable-stat-251-stat-251-lecture-tue-2026-06-09@lifeos.local
-DTSTAMP:20260524T225025
+DTSTAMP:20260524T233603
 SUMMARY:STAT 251 921
 CREATED:20260518T170000
-LAST-MODIFIED:20260524T225025
-SEQUENCE:4
+LAST-MODIFIED:20260524T233603
+SEQUENCE:5
 DTSTART:20260609T180000
-DTEND:20260609T205000
+DTEND:20260609T210000
 LOCATION:Biological Sciences Building (BIOL)\, Room 1000\, 6270 University 
  Boulevard\, Vancouver\, BC V6T 1Z4
 DESCRIPTION:course\nSTAT 251 STAT_V 251-921\nLecture via In Person Learning
- \nCanvas classroom page lists class time as 6:00pm to 8:50pm. Registration
-  still shows a 9:00pm window.\nGenerated from course meeting stat-251-lect
- ure-tue. Update this occurrence if a newer announcement changes the time\,
-  delivery\, or location.
+ \nCourse Timetable uses the formal 6:00pm to 9:00pm window. Canvas may sho
+ w the practical 8:50pm end time.\nGenerated from course meeting stat-251-l
+ ecture-tue. Update this occurrence if a newer announcement changes the tim
+ e\, delivery\, or location.
 TRANSP:OPAQUE
 CATEGORIES:icloud-lifeos,course,stat-251,course-timetable
 STATUS:CONFIRMED
@@ -567,20 +567,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:course-timetable-stat-251-stat-251-lecture-thu-2026-06-11@lifeos.local
-DTSTAMP:20260524T225025
+DTSTAMP:20260524T233603
 SUMMARY:STAT 251 921
 CREATED:20260518T170000
-LAST-MODIFIED:20260524T225025
-SEQUENCE:4
+LAST-MODIFIED:20260524T233603
+SEQUENCE:5
 DTSTART:20260611T180000
-DTEND:20260611T205000
+DTEND:20260611T210000
 LOCATION:Biological Sciences Building (BIOL)\, Room 1000\, 6270 University 
  Boulevard\, Vancouver\, BC V6T 1Z4
 DESCRIPTION:course\nSTAT 251 STAT_V 251-921\nLecture via In Person Learning
- \nCanvas classroom page lists class time as 6:00pm to 8:50pm. Registration
-  still shows a 9:00pm window.\nGenerated from course meeting stat-251-lect
- ure-thu. Update this occurrence if a newer announcement changes the time\,
-  delivery\, or location.
+ \nCourse Timetable uses the formal 6:00pm to 9:00pm window. Canvas may sho
+ w the practical 8:50pm end time.\nGenerated from course meeting stat-251-l
+ ecture-thu. Update this occurrence if a newer announcement changes the tim
+ e\, delivery\, or location.
 TRANSP:OPAQUE
 CATEGORIES:icloud-lifeos,course,stat-251,course-timetable
 STATUS:CONFIRMED
@@ -606,20 +606,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:course-timetable-stat-251-stat-251-lecture-tue-2026-06-16@lifeos.local
-DTSTAMP:20260524T225025
+DTSTAMP:20260524T233603
 SUMMARY:STAT 251 921
 CREATED:20260518T170000
-LAST-MODIFIED:20260524T225025
-SEQUENCE:4
+LAST-MODIFIED:20260524T233603
+SEQUENCE:5
 DTSTART:20260616T180000
-DTEND:20260616T205000
+DTEND:20260616T210000
 LOCATION:Biological Sciences Building (BIOL)\, Room 1000\, 6270 University 
  Boulevard\, Vancouver\, BC V6T 1Z4
 DESCRIPTION:course\nSTAT 251 STAT_V 251-921\nLecture via In Person Learning
- \nCanvas classroom page lists class time as 6:00pm to 8:50pm. Registration
-  still shows a 9:00pm window.\nGenerated from course meeting stat-251-lect
- ure-tue. Update this occurrence if a newer announcement changes the time\,
-  delivery\, or location.
+ \nCourse Timetable uses the formal 6:00pm to 9:00pm window. Canvas may sho
+ w the practical 8:50pm end time.\nGenerated from course meeting stat-251-l
+ ecture-tue. Update this occurrence if a newer announcement changes the tim
+ e\, delivery\, or location.
 TRANSP:OPAQUE
 CATEGORIES:icloud-lifeos,course,stat-251,course-timetable
 STATUS:CONFIRMED
@@ -683,20 +683,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:course-timetable-stat-251-stat-251-lecture-thu-2026-06-18@lifeos.local
-DTSTAMP:20260524T225025
+DTSTAMP:20260524T233603
 SUMMARY:STAT 251 921
 CREATED:20260518T170000
-LAST-MODIFIED:20260524T225025
-SEQUENCE:4
+LAST-MODIFIED:20260524T233603
+SEQUENCE:5
 DTSTART:20260618T180000
-DTEND:20260618T205000
+DTEND:20260618T210000
 LOCATION:Biological Sciences Building (BIOL)\, Room 1000\, 6270 University 
  Boulevard\, Vancouver\, BC V6T 1Z4
 DESCRIPTION:course\nSTAT 251 STAT_V 251-921\nLecture via In Person Learning
- \nCanvas classroom page lists class time as 6:00pm to 8:50pm. Registration
-  still shows a 9:00pm window.\nGenerated from course meeting stat-251-lect
- ure-thu. Update this occurrence if a newer announcement changes the time\,
-  delivery\, or location.
+ \nCourse Timetable uses the formal 6:00pm to 9:00pm window. Canvas may sho
+ w the practical 8:50pm end time.\nGenerated from course meeting stat-251-l
+ ecture-thu. Update this occurrence if a newer announcement changes the tim
+ e\, delivery\, or location.
 TRANSP:OPAQUE
 CATEGORIES:icloud-lifeos,course,stat-251,course-timetable
 STATUS:CONFIRMED
