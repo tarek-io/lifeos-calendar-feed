@@ -6,6 +6,21 @@ METHOD:PUBLISH
 X-WR-CALNAME:Course Timetable
 X-WR-TIMEZONE:America/Vancouver
 BEGIN:VEVENT
+UID:course-calendar-apsc-262-rezero-lecture-2026-05-11@lifeos.local
+DTSTAMP:20260609T013540
+SUMMARY:APSC 262 Lecture
+CREATED:20260609T013540
+LAST-MODIFIED:20260609T013540
+SEQUENCE:0
+DTSTART:20260511T163000
+DTEND:20260511T180000
+DESCRIPTION:course\nManaged by APSC 262 course sync.\nLive Zoom list showed
+  the 4:30 PM lecture recurring on Mondays and Wednesdays.
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,lecture_meeting
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:course-timetable-stat-251-stat-251-lecture-tue-2026-05-12@lifeos.local
 DTSTAMP:20260608T232716
 SUMMARY:STAT 251 921
@@ -43,6 +58,21 @@ CATEGORIES:icloud-lifeos,course,stat-251,course-calendar,lab_meeting,course
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:course-calendar-apsc-262-rezero-lecture-2026-05-13@lifeos.local
+DTSTAMP:20260609T013540
+SUMMARY:APSC 262 Lecture
+CREATED:20260609T013540
+LAST-MODIFIED:20260609T013540
+SEQUENCE:0
+DTSTART:20260513T163000
+DTEND:20260513T180000
+DESCRIPTION:course\nManaged by APSC 262 course sync.\nLive Zoom list showed
+  the 4:30 PM lecture recurring on Mondays and Wednesdays.
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,lecture_meeting
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:course-timetable-stat-251-stat-251-lecture-thu-2026-05-14@lifeos.local
 DTSTAMP:20260608T232716
 SUMMARY:STAT 251 921
@@ -59,6 +89,21 @@ DESCRIPTION:course\nManaged by STAT 251 course sync.\nCanvas classroom page
 TRANSP:OPAQUE
 CATEGORIES:icloud-lifeos,course,stat-251,course-calendar,lecture_meeting,co
  urse-timetable
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:course-calendar-apsc-262-rezero-lecture-2026-05-18@lifeos.local
+DTSTAMP:20260609T013540
+SUMMARY:APSC 262 Lecture
+CREATED:20260609T013540
+LAST-MODIFIED:20260609T013540
+SEQUENCE:0
+DTSTART:20260518T163000
+DTEND:20260518T180000
+DESCRIPTION:course\nManaged by APSC 262 course sync.\nLive Zoom list showed
+  the 4:30 PM lecture recurring on Mondays and Wednesdays.
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,lecture_meeting
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -99,6 +144,21 @@ CATEGORIES:icloud-lifeos,course,stat-251,course-calendar,lab_meeting,course
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:course-calendar-apsc-262-rezero-lecture-2026-05-20@lifeos.local
+DTSTAMP:20260609T013540
+SUMMARY:APSC 262 Lecture
+CREATED:20260609T013540
+LAST-MODIFIED:20260609T013540
+SEQUENCE:0
+DTSTART:20260520T163000
+DTEND:20260520T180000
+DESCRIPTION:course\nManaged by APSC 262 course sync.\nLive Zoom list showed
+  the 4:30 PM lecture recurring on Mondays and Wednesdays.
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,lecture_meeting
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:course-timetable-stat-251-stat-251-lecture-thu-2026-05-21@lifeos.local
 DTSTAMP:20260608T232716
 SUMMARY:STAT 251 921
@@ -115,6 +175,21 @@ DESCRIPTION:course\nManaged by STAT 251 course sync.\nCanvas classroom page
 TRANSP:OPAQUE
 CATEGORIES:icloud-lifeos,course,stat-251,course-calendar,lecture_meeting,co
  urse-timetable
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:course-calendar-apsc-262-rezero-lecture-2026-05-25@lifeos.local
+DTSTAMP:20260609T013540
+SUMMARY:APSC 262 Lecture
+CREATED:20260609T013540
+LAST-MODIFIED:20260609T013540
+SEQUENCE:0
+DTSTART:20260525T163000
+DTEND:20260525T180000
+DESCRIPTION:course\nManaged by APSC 262 course sync.\nLive Zoom list showed
+  the 4:30 PM lecture recurring on Mondays and Wednesdays.
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,lecture_meeting
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -155,6 +230,21 @@ CATEGORIES:icloud-lifeos,course,stat-251,course-calendar,lab_meeting,course
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:course-calendar-apsc-262-rezero-lecture-2026-05-27@lifeos.local
+DTSTAMP:20260609T013540
+SUMMARY:APSC 262 Lecture
+CREATED:20260609T013540
+LAST-MODIFIED:20260609T013540
+SEQUENCE:0
+DTSTART:20260527T163000
+DTEND:20260527T180000
+DESCRIPTION:course\nManaged by APSC 262 course sync.\nLive Zoom list showed
+  the 4:30 PM lecture recurring on Mondays and Wednesdays.
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,lecture_meeting
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:course-timetable-stat-251-stat-251-lecture-thu-2026-05-28@lifeos.local
 DTSTAMP:20260608T232716
 SUMMARY:STAT 251 921
@@ -174,6 +264,37 @@ CATEGORIES:icloud-lifeos,course,stat-251,course-calendar,lecture_meeting,co
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:course-calendar-apsc-262-rezero-lecture-2026-06-01@lifeos.local
+DTSTAMP:20260609T013540
+SUMMARY:APSC 262 Lecture
+CREATED:20260609T013540
+LAST-MODIFIED:20260609T013540
+SEQUENCE:0
+DTSTART:20260601T163000
+DTEND:20260601T180000
+DESCRIPTION:course\nManaged by APSC 262 course sync.\nLive Zoom list showed
+  the 4:30 PM lecture recurring on Mondays and Wednesdays.
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,lecture_meeting
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:course-calendar-apsc-262-rezero-tutorial-2026-06-01@lifeos.local
+DTSTAMP:20260609T013540
+SUMMARY:APSC 262 Tutorial Groups 13-18
+CREATED:20260609T013540
+LAST-MODIFIED:20260609T013540
+SEQUENCE:0
+DTSTART:20260601T180000
+DTEND:20260601T193000
+DESCRIPTION:course\nManaged by APSC 262 course sync.\nLive Zoom list showed
+  the 6 PM tutorial for groups 13-18.\n\n----( Video Call )----\nhttps://ub
+ c.zoom.us/j/68470192608?pwd=TklAgoeWarGYuBphrGGomzZDMfZNIB.1\n---===---
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,tutorial_meeting
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:course-timetable-stat-251-stat-251-lecture-tue-2026-06-02@lifeos.local
 DTSTAMP:20260608T232716
 SUMMARY:STAT 251 921
@@ -190,6 +311,38 @@ DESCRIPTION:course\nManaged by STAT 251 course sync.\nCanvas classroom page
 TRANSP:OPAQUE
 CATEGORIES:icloud-lifeos,course,stat-251,course-calendar,lecture_meeting,co
  urse-timetable
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:course-calendar-apsc-262-rezero-lecture-2026-06-03@lifeos.local
+DTSTAMP:20260609T013540
+SUMMARY:APSC 262 Lecture
+CREATED:20260609T013540
+LAST-MODIFIED:20260609T013540
+SEQUENCE:0
+DTSTART:20260603T163000
+DTEND:20260603T180000
+DESCRIPTION:course\nManaged by APSC 262 course sync.\nLive Zoom list showed
+  the 4:30 PM lecture recurring on Mondays and Wednesdays.
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,lecture_meeting
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:course-calendar-apsc-262-rezero-tutorial-2026-06-03@lifeos.local
+DTSTAMP:20260609T013540
+SUMMARY:APSC 262 Tutorial Groups 13-18
+CREATED:20260609T013540
+LAST-MODIFIED:20260609T013540
+SEQUENCE:0
+DTSTART:20260603T180000
+DTEND:20260603T193000
+DESCRIPTION:course\nManaged by APSC 262 course sync.\nThe live Zoom list an
+ d the presentation schedule both show Group 14 in the June 3 tutorial bloc
+ k.\n\n----( Video Call )----\nhttps://ubc.zoom.us/j/68470192608?pwd=TklAgo
+ eWarGYuBphrGGomzZDMfZNIB.1\n---===---
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,tutorial_meeting
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -225,6 +378,21 @@ DESCRIPTION:course\nManaged by STAT 251 course sync.\nCanvas Day 8 and midt
 TRANSP:OPAQUE
 CATEGORIES:icloud-lifeos,course,stat-251,course-calendar,lecture_meeting,co
  urse-timetable
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:course-calendar-apsc-262-rezero-lecture-2026-06-08@lifeos.local
+DTSTAMP:20260609T013540
+SUMMARY:APSC 262 Lecture
+CREATED:20260609T013540
+LAST-MODIFIED:20260609T013540
+SEQUENCE:0
+DTSTART:20260608T163000
+DTEND:20260608T180000
+DESCRIPTION:course\nManaged by APSC 262 course sync.\nLive Zoom list showed
+  the 4:30 PM lecture recurring on Mondays and Wednesdays.
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,lecture_meeting
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -265,6 +433,37 @@ CATEGORIES:icloud-lifeos,course,stat-251,course-calendar,lab_meeting,course
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:course-calendar-apsc-262-rezero-lecture-2026-06-10@lifeos.local
+DTSTAMP:20260609T013540
+SUMMARY:APSC 262 Lecture
+CREATED:20260609T013540
+LAST-MODIFIED:20260609T013540
+SEQUENCE:0
+DTSTART:20260610T163000
+DTEND:20260610T180000
+DESCRIPTION:course\nManaged by APSC 262 course sync.\nLive Zoom list showed
+  the 4:30 PM lecture recurring on Mondays and Wednesdays.
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,lecture_meeting
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:course-calendar-apsc-262-rezero-tutorial-2026-06-10@lifeos.local
+DTSTAMP:20260609T013540
+SUMMARY:APSC 262 Tutorial Groups 13-18
+CREATED:20260609T013540
+LAST-MODIFIED:20260609T013540
+SEQUENCE:0
+DTSTART:20260610T180000
+DTEND:20260610T193000
+DESCRIPTION:course\nManaged by APSC 262 course sync.\nLive Zoom list showed
+  the 6 PM tutorial for groups 13-18.\n\n----( Video Call )----\nhttps://ub
+ c.zoom.us/j/68470192608?pwd=TklAgoeWarGYuBphrGGomzZDMfZNIB.1\n---===---
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,tutorial_meeting
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:course-timetable-stat-251-stat-251-lecture-thu-2026-06-11@lifeos.local
 DTSTAMP:20260608T232716
 SUMMARY:STAT 251 921
@@ -281,6 +480,37 @@ DESCRIPTION:course\nManaged by STAT 251 course sync.\nCanvas classroom page
 TRANSP:OPAQUE
 CATEGORIES:icloud-lifeos,course,stat-251,course-calendar,lecture_meeting,co
  urse-timetable
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:course-calendar-apsc-262-rezero-lecture-2026-06-15@lifeos.local
+DTSTAMP:20260609T013540
+SUMMARY:APSC 262 Lecture
+CREATED:20260609T013540
+LAST-MODIFIED:20260609T013540
+SEQUENCE:0
+DTSTART:20260615T163000
+DTEND:20260615T180000
+DESCRIPTION:course\nManaged by APSC 262 course sync.\nLive Zoom list showed
+  the 4:30 PM lecture recurring on Mondays and Wednesdays.
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,lecture_meeting
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:course-calendar-apsc-262-rezero-tutorial-2026-06-15@lifeos.local
+DTSTAMP:20260609T013540
+SUMMARY:APSC 262 Tutorial Groups 13-18
+CREATED:20260609T013540
+LAST-MODIFIED:20260609T013540
+SEQUENCE:0
+DTSTART:20260615T180000
+DTEND:20260615T193000
+DESCRIPTION:course\nManaged by APSC 262 course sync.\nLive Zoom list showed
+  the 6 PM tutorial for groups 13-18.\n\n----( Video Call )----\nhttps://ub
+ c.zoom.us/j/68470192608?pwd=TklAgoeWarGYuBphrGGomzZDMfZNIB.1\n---===---
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,tutorial_meeting
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -321,6 +551,37 @@ CATEGORIES:icloud-lifeos,course,stat-251,course-calendar,lab_meeting,course
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:course-calendar-apsc-262-rezero-lecture-2026-06-17@lifeos.local
+DTSTAMP:20260609T013540
+SUMMARY:APSC 262 Lecture
+CREATED:20260609T013540
+LAST-MODIFIED:20260609T013540
+SEQUENCE:0
+DTSTART:20260617T163000
+DTEND:20260617T180000
+DESCRIPTION:course\nManaged by APSC 262 course sync.\nLive Zoom list showed
+  the 4:30 PM lecture recurring on Mondays and Wednesdays.
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,lecture_meeting
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:course-calendar-apsc-262-rezero-tutorial-2026-06-17@lifeos.local
+DTSTAMP:20260609T013540
+SUMMARY:APSC 262 Tutorial Groups 13-18
+CREATED:20260609T013540
+LAST-MODIFIED:20260609T013540
+SEQUENCE:0
+DTSTART:20260617T180000
+DTEND:20260617T193000
+DESCRIPTION:course\nManaged by APSC 262 course sync.\nLive Zoom list showed
+  the 6 PM tutorial for groups 13-18.\n\n----( Video Call )----\nhttps://ub
+ c.zoom.us/j/68470192608?pwd=TklAgoeWarGYuBphrGGomzZDMfZNIB.1\n---===---
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,tutorial_meeting
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:course-timetable-stat-251-stat-251-lecture-thu-2026-06-18@lifeos.local
 DTSTAMP:20260608T232716
 SUMMARY:STAT 251 921
@@ -337,6 +598,57 @@ DESCRIPTION:course\nManaged by STAT 251 course sync.\nCanvas classroom page
 TRANSP:OPAQUE
 CATEGORIES:icloud-lifeos,course,stat-251,course-calendar,lecture_meeting,co
  urse-timetable
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:course-calendar-apsc-262-rezero-tutorial-2026-06-22@lifeos.local
+DTSTAMP:20260609T013540
+SUMMARY:APSC 262 Tutorial Groups 13-18
+CREATED:20260609T013540
+LAST-MODIFIED:20260609T013540
+SEQUENCE:0
+DTSTART:20260622T180000
+DTEND:20260622T193000
+DESCRIPTION:course\nManaged by APSC 262 course sync.\nLive Zoom list showed
+  a recurring 6 PM tutorial for groups 13-18.\n\n----( Video Call )----\nht
+ tps://ubc.zoom.us/j/68470192608?pwd=TklAgoeWarGYuBphrGGomzZDMfZNIB.1\n---=
+ ==---
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,tutorial_meeting
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:course-calendar-apsc-262-rezero-tutorial-2026-06-24@lifeos.local
+DTSTAMP:20260609T013540
+SUMMARY:APSC 262 Tutorial Groups 13-18
+CREATED:20260609T013540
+LAST-MODIFIED:20260609T013540
+SEQUENCE:0
+DTSTART:20260624T180000
+DTEND:20260624T193000
+DESCRIPTION:course\nManaged by APSC 262 course sync.\nLive Zoom list showed
+  a recurring 6 PM tutorial for groups 13-18.\n\n----( Video Call )----\nht
+ tps://ubc.zoom.us/j/68470192608?pwd=TklAgoeWarGYuBphrGGomzZDMfZNIB.1\n---=
+ ==---
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,tutorial_meeting
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:course-calendar-apsc-262-rezero-tutorial-2026-06-29@lifeos.local
+DTSTAMP:20260609T013540
+SUMMARY:APSC 262 Tutorial Groups 13-18
+CREATED:20260609T013540
+LAST-MODIFIED:20260609T013540
+SEQUENCE:0
+DTSTART:20260629T180000
+DTEND:20260629T193000
+DESCRIPTION:course\nManaged by APSC 262 course sync.\nLive Zoom list showed
+  a recurring 6 PM tutorial for groups 13-18.\n\n----( Video Call )----\nht
+ tps://ubc.zoom.us/j/68470192608?pwd=TklAgoeWarGYuBphrGGomzZDMfZNIB.1\n---=
+ ==---
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,tutorial_meeting
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
