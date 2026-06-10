@@ -640,4 +640,52 @@ TRANSP:OPAQUE
 CATEGORIES:yacines-timetable,course,term2
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term1-wrds-150-232-mon-1100@lifeos.local
+DTSTAMP:20260610T143124
+SUMMARY:WRDS 150 232
+CREATED:20260610T143124
+LAST-MODIFIED:20260610T143124
+SEQUENCE:0
+DTSTART:20270104T110000
+DTEND:20270104T120000
+LOCATION:West Mall Swing Space Building (SWNG)\, Floor: 4\, Room: 408
+DESCRIPTION:course\nSelected WRDS 150 option for Yacine.\nTopic: Surveillan
+ ce.\nInstructor: Katja Thieme.\nMapped from weekday and time only.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term1-wrds-150-232-wed-1100@lifeos.local
+DTSTAMP:20260610T143124
+SUMMARY:WRDS 150 232
+CREATED:20260610T143124
+LAST-MODIFIED:20260610T143124
+SEQUENCE:0
+DTSTART:20270106T110000
+DTEND:20270106T120000
+LOCATION:West Mall Swing Space Building (SWNG)\, Floor: 4\, Room: 408
+DESCRIPTION:course\nSelected WRDS 150 option for Yacine.\nTopic: Surveillan
+ ce.\nInstructor: Katja Thieme.\nMapped from weekday and time only.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term1-wrds-150-232-fri-1100@lifeos.local
+DTSTAMP:20260610T143124
+SUMMARY:WRDS 150 232
+CREATED:20260610T143124
+LAST-MODIFIED:20260610T143124
+SEQUENCE:0
+DTSTART:20270108T110000
+DTEND:20270108T120000
+LOCATION:West Mall Swing Space Building (SWNG)\, Floor: 4\, Room: 408
+DESCRIPTION:course\nSelected WRDS 150 option for Yacine.\nTopic: Surveillan
+ ce.\nInstructor: Katja Thieme.\nMapped from weekday and time only.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term1
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
