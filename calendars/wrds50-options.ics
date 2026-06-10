@@ -1,0 +1,351 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//LifeOS//Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:WRDS50 options
+X-WR-TIMEZONE:America/Vancouver
+BEGIN:VEVENT
+UID:wrds50-options-wrds-150-019-mon-1700@lifeos.local
+DTSTAMP:20260610T140239
+SUMMARY:WRDS 150 019
+CREATED:20260610T140239
+LAST-MODIFIED:20260610T140239
+SEQUENCE:0
+DTSTART:20260601T170000
+DTEND:20260601T183000
+LOCATION:Gordon B. Shrum Building (SHRM)\, Floor: 1\, Room: 1002
+DESCRIPTION:course\nOpen non-conflicting WRDS 150 option mapped from weekda
+ y and time only.\nOriginal term listing: 2026-27 Winter Term 1.\nOriginal 
+ date range: 2026-09-09 - 2026-12-07.\nInstructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:wrds50-options,course,wrds-150-options
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wrds50-options-wrds-150-019-wed-1700@lifeos.local
+DTSTAMP:20260610T140239
+SUMMARY:WRDS 150 019
+CREATED:20260610T140239
+LAST-MODIFIED:20260610T140239
+SEQUENCE:0
+DTSTART:20260603T170000
+DTEND:20260603T183000
+LOCATION:Gordon B. Shrum Building (SHRM)\, Floor: 1\, Room: 1002
+DESCRIPTION:course\nOpen non-conflicting WRDS 150 option mapped from weekda
+ y and time only.\nOriginal term listing: 2026-27 Winter Term 1.\nOriginal 
+ date range: 2026-09-09 - 2026-12-07.\nInstructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:wrds50-options,course,wrds-150-options
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wrds50-options-wrds-150-201-mon-0800@lifeos.local
+DTSTAMP:20260610T140239
+SUMMARY:WRDS 150 201
+CREATED:20260610T140239
+LAST-MODIFIED:20260610T140239
+SEQUENCE:0
+DTSTART:20260601T080000
+DTEND:20260601T090000
+LOCATION:Jack Bell Building for the School of Social Work (SOWK)\, Floor: -
+ 1\, Room: 025
+DESCRIPTION:course\nOpen non-conflicting WRDS 150 option mapped from weekda
+ y and time only.\nOriginal term listing: 2026-27 Winter Term 1.\nOriginal 
+ date range: 2026-09-09 - 2026-12-07.\nInstructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:wrds50-options,course,wrds-150-options
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wrds50-options-wrds-150-201-wed-0800@lifeos.local
+DTSTAMP:20260610T140239
+SUMMARY:WRDS 150 201
+CREATED:20260610T140239
+LAST-MODIFIED:20260610T140239
+SEQUENCE:0
+DTSTART:20260603T080000
+DTEND:20260603T090000
+LOCATION:Jack Bell Building for the School of Social Work (SOWK)\, Floor: -
+ 1\, Room: 025
+DESCRIPTION:course\nOpen non-conflicting WRDS 150 option mapped from weekda
+ y and time only.\nOriginal term listing: 2026-27 Winter Term 1.\nOriginal 
+ date range: 2026-09-09 - 2026-12-07.\nInstructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:wrds50-options,course,wrds-150-options
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wrds50-options-wrds-150-201-fri-0800@lifeos.local
+DTSTAMP:20260610T140239
+SUMMARY:WRDS 150 201
+CREATED:20260610T140239
+LAST-MODIFIED:20260610T140239
+SEQUENCE:0
+DTSTART:20260605T080000
+DTEND:20260605T090000
+LOCATION:Jack Bell Building for the School of Social Work (SOWK)\, Floor: -
+ 1\, Room: 025
+DESCRIPTION:course\nOpen non-conflicting WRDS 150 option mapped from weekda
+ y and time only.\nOriginal term listing: 2026-27 Winter Term 1.\nOriginal 
+ date range: 2026-09-09 - 2026-12-07.\nInstructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:wrds50-options,course,wrds-150-options
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wrds50-options-wrds-150-221-mon-1000@lifeos.local
+DTSTAMP:20260610T140239
+SUMMARY:WRDS 150 221
+CREATED:20260610T140239
+LAST-MODIFIED:20260610T140239
+SEQUENCE:0
+DTSTART:20260601T100000
+DTEND:20260601T110000
+LOCATION:West Mall Swing Space Building (SWNG)\, Floor: 1\, Room: 108
+DESCRIPTION:course\nOpen non-conflicting WRDS 150 option mapped from weekda
+ y and time only.\nOriginal term listing: 2026-27 Winter Term 1.\nOriginal 
+ date range: 2026-09-09 - 2026-12-07.\nInstructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:wrds50-options,course,wrds-150-options
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wrds50-options-wrds-150-221-wed-1000@lifeos.local
+DTSTAMP:20260610T140239
+SUMMARY:WRDS 150 221
+CREATED:20260610T140239
+LAST-MODIFIED:20260610T140239
+SEQUENCE:0
+DTSTART:20260603T100000
+DTEND:20260603T110000
+LOCATION:West Mall Swing Space Building (SWNG)\, Floor: 1\, Room: 108
+DESCRIPTION:course\nOpen non-conflicting WRDS 150 option mapped from weekda
+ y and time only.\nOriginal term listing: 2026-27 Winter Term 1.\nOriginal 
+ date range: 2026-09-09 - 2026-12-07.\nInstructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:wrds50-options,course,wrds-150-options
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wrds50-options-wrds-150-221-fri-1000@lifeos.local
+DTSTAMP:20260610T140239
+SUMMARY:WRDS 150 221
+CREATED:20260610T140239
+LAST-MODIFIED:20260610T140239
+SEQUENCE:0
+DTSTART:20260605T100000
+DTEND:20260605T110000
+LOCATION:West Mall Swing Space Building (SWNG)\, Floor: 1\, Room: 108
+DESCRIPTION:course\nOpen non-conflicting WRDS 150 option mapped from weekda
+ y and time only.\nOriginal term listing: 2026-27 Winter Term 1.\nOriginal 
+ date range: 2026-09-09 - 2026-12-07.\nInstructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:wrds50-options,course,wrds-150-options
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wrds50-options-wrds-150-222-mon-1000@lifeos.local
+DTSTAMP:20260610T140239
+SUMMARY:WRDS 150 222
+CREATED:20260610T140239
+LAST-MODIFIED:20260610T140239
+SEQUENCE:0
+DTSTART:20260601T100000
+DTEND:20260601T110000
+LOCATION:West Mall Swing Space Building (SWNG)\, Floor: 3\, Room: 310
+DESCRIPTION:course\nOpen non-conflicting WRDS 150 option mapped from weekda
+ y and time only.\nOriginal term listing: 2026-27 Winter Term 1.\nOriginal 
+ date range: 2026-09-09 - 2026-12-07.\nInstructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:wrds50-options,course,wrds-150-options
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wrds50-options-wrds-150-222-wed-1000@lifeos.local
+DTSTAMP:20260610T140239
+SUMMARY:WRDS 150 222
+CREATED:20260610T140239
+LAST-MODIFIED:20260610T140239
+SEQUENCE:0
+DTSTART:20260603T100000
+DTEND:20260603T110000
+LOCATION:West Mall Swing Space Building (SWNG)\, Floor: 3\, Room: 310
+DESCRIPTION:course\nOpen non-conflicting WRDS 150 option mapped from weekda
+ y and time only.\nOriginal term listing: 2026-27 Winter Term 1.\nOriginal 
+ date range: 2026-09-09 - 2026-12-07.\nInstructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:wrds50-options,course,wrds-150-options
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wrds50-options-wrds-150-222-fri-1000@lifeos.local
+DTSTAMP:20260610T140239
+SUMMARY:WRDS 150 222
+CREATED:20260610T140239
+LAST-MODIFIED:20260610T140239
+SEQUENCE:0
+DTSTART:20260605T100000
+DTEND:20260605T110000
+LOCATION:West Mall Swing Space Building (SWNG)\, Floor: 3\, Room: 310
+DESCRIPTION:course\nOpen non-conflicting WRDS 150 option mapped from weekda
+ y and time only.\nOriginal term listing: 2026-27 Winter Term 1.\nOriginal 
+ date range: 2026-09-09 - 2026-12-07.\nInstructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:wrds50-options,course,wrds-150-options
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wrds50-options-wrds-150-231-mon-1100@lifeos.local
+DTSTAMP:20260610T140239
+SUMMARY:WRDS 150 231
+CREATED:20260610T140239
+LAST-MODIFIED:20260610T140239
+SEQUENCE:0
+DTSTART:20260601T110000
+DTEND:20260601T120000
+LOCATION:West Mall Swing Space Building (SWNG)\, Floor: 1\, Room: 110
+DESCRIPTION:course\nOpen non-conflicting WRDS 150 option mapped from weekda
+ y and time only.\nOriginal term listing: 2026-27 Winter Term 1.\nOriginal 
+ date range: 2026-09-09 - 2026-12-07.\nInstructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:wrds50-options,course,wrds-150-options
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wrds50-options-wrds-150-231-wed-1100@lifeos.local
+DTSTAMP:20260610T140239
+SUMMARY:WRDS 150 231
+CREATED:20260610T140239
+LAST-MODIFIED:20260610T140239
+SEQUENCE:0
+DTSTART:20260603T110000
+DTEND:20260603T120000
+LOCATION:West Mall Swing Space Building (SWNG)\, Floor: 1\, Room: 110
+DESCRIPTION:course\nOpen non-conflicting WRDS 150 option mapped from weekda
+ y and time only.\nOriginal term listing: 2026-27 Winter Term 1.\nOriginal 
+ date range: 2026-09-09 - 2026-12-07.\nInstructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:wrds50-options,course,wrds-150-options
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wrds50-options-wrds-150-231-fri-1100@lifeos.local
+DTSTAMP:20260610T140239
+SUMMARY:WRDS 150 231
+CREATED:20260610T140239
+LAST-MODIFIED:20260610T140239
+SEQUENCE:0
+DTSTART:20260605T110000
+DTEND:20260605T120000
+LOCATION:West Mall Swing Space Building (SWNG)\, Floor: 1\, Room: 110
+DESCRIPTION:course\nOpen non-conflicting WRDS 150 option mapped from weekda
+ y and time only.\nOriginal term listing: 2026-27 Winter Term 1.\nOriginal 
+ date range: 2026-09-09 - 2026-12-07.\nInstructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:wrds50-options,course,wrds-150-options
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wrds50-options-wrds-150-232-mon-1100@lifeos.local
+DTSTAMP:20260610T140239
+SUMMARY:WRDS 150 232
+CREATED:20260610T140239
+LAST-MODIFIED:20260610T140239
+SEQUENCE:0
+DTSTART:20260601T110000
+DTEND:20260601T120000
+LOCATION:West Mall Swing Space Building (SWNG)\, Floor: 4\, Room: 408
+DESCRIPTION:course\nOpen non-conflicting WRDS 150 option mapped from weekda
+ y and time only.\nOriginal term listing: 2026-27 Winter Term 1.\nOriginal 
+ date range: 2026-09-09 - 2026-12-07.\nInstructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:wrds50-options,course,wrds-150-options
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wrds50-options-wrds-150-232-wed-1100@lifeos.local
+DTSTAMP:20260610T140239
+SUMMARY:WRDS 150 232
+CREATED:20260610T140239
+LAST-MODIFIED:20260610T140239
+SEQUENCE:0
+DTSTART:20260603T110000
+DTEND:20260603T120000
+LOCATION:West Mall Swing Space Building (SWNG)\, Floor: 4\, Room: 408
+DESCRIPTION:course\nOpen non-conflicting WRDS 150 option mapped from weekda
+ y and time only.\nOriginal term listing: 2026-27 Winter Term 1.\nOriginal 
+ date range: 2026-09-09 - 2026-12-07.\nInstructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:wrds50-options,course,wrds-150-options
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wrds50-options-wrds-150-232-fri-1100@lifeos.local
+DTSTAMP:20260610T140239
+SUMMARY:WRDS 150 232
+CREATED:20260610T140239
+LAST-MODIFIED:20260610T140239
+SEQUENCE:0
+DTSTART:20260605T110000
+DTEND:20260605T120000
+LOCATION:West Mall Swing Space Building (SWNG)\, Floor: 4\, Room: 408
+DESCRIPTION:course\nOpen non-conflicting WRDS 150 option mapped from weekda
+ y and time only.\nOriginal term listing: 2026-27 Winter Term 1.\nOriginal 
+ date range: 2026-09-09 - 2026-12-07.\nInstructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:wrds50-options,course,wrds-150-options
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wrds50-options-wrds-150-451-tue-1700@lifeos.local
+DTSTAMP:20260610T140239
+SUMMARY:WRDS 150 451
+CREATED:20260610T140239
+LAST-MODIFIED:20260610T140239
+SEQUENCE:0
+DTSTART:20260602T170000
+DTEND:20260602T183000
+LOCATION:West Mall Swing Space Building (SWNG)\, Floor: 1\, Room: 107
+DESCRIPTION:course\nOpen non-conflicting WRDS 150 option mapped from weekda
+ y and time only.\nOriginal term listing: 2026-27 Winter Term 1.\nOriginal 
+ date range: 2026-09-08 - 2026-12-03.\nInstructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:wrds50-options,course,wrds-150-options
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wrds50-options-wrds-150-451-thu-1700@lifeos.local
+DTSTAMP:20260610T140239
+SUMMARY:WRDS 150 451
+CREATED:20260610T140239
+LAST-MODIFIED:20260610T140239
+SEQUENCE:0
+DTSTART:20260604T170000
+DTEND:20260604T183000
+LOCATION:West Mall Swing Space Building (SWNG)\, Floor: 1\, Room: 107
+DESCRIPTION:course\nOpen non-conflicting WRDS 150 option mapped from weekda
+ y and time only.\nOriginal term listing: 2026-27 Winter Term 1.\nOriginal 
+ date range: 2026-09-08 - 2026-12-03.\nInstructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:wrds50-options,course,wrds-150-options
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wrds50-options-wrds-150-461-thu-1800@lifeos.local
+DTSTAMP:20260610T140239
+SUMMARY:WRDS 150 461
+CREATED:20260610T140239
+LAST-MODIFIED:20260610T140239
+SEQUENCE:0
+DTSTART:20260604T180000
+DTEND:20260604T210000
+LOCATION:Hennings Building (HENN)\, Floor: 2\, Room: 301
+DESCRIPTION:course\nOpen non-conflicting WRDS 150 option mapped from weekda
+ y and time only.\nOriginal term listing: 2026-27 Winter Term 1.\nOriginal 
+ date range: 2026-09-10 - 2026-12-03.\nInstructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:wrds50-options,course,wrds-150-options
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
