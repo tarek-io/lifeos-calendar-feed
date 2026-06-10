@@ -1,0 +1,643 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//LifeOS//Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Yacine's Timetable
+X-WR-TIMEZONE:America/Vancouver
+BEGIN:VEVENT
+UID:yacines-timetable-term1-phys-157-101-mon-0900@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:PHYS 157 101
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270104T090000
+DTEND:20270104T100000
+LOCATION:Hebb Building (HEBB)\, Floor: 1\, Room: 100
+DESCRIPTION:course\nTerm 1 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.\nInstructor: Amali Priyanka Jambuge.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term1-math-100-a31-mon-1400@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:MATH 100 A31
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270104T140000
+DTEND:20270104T150000
+LOCATION:Buchanan Building (BUCH)\, Floor: 2\, Room: D219
+DESCRIPTION:course\nTerm 1 meeting mapped from weekday and time only.\nInst
+ ructional format: Discussion.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term1-chem-121-103-mon-1500@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:CHEM 121 103
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270104T150000
+DTEND:20270104T160000
+LOCATION:Chemistry Building - B\, C\, D\, E (CHEM)\, Floor: -1\, Room: B150
+DESCRIPTION:course\nTerm 1 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term1-apsc-100-104-mon-1600@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:APSC 100 104
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270104T160000
+DTEND:20270104T170000
+LOCATION:UBC Life Building (LIFE)\, Floor: 2\, Room: 2201
+DESCRIPTION:course\nTerm 1 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.\nInstructor: Amir M. Dehkhoda Carol Jaeger Jon 
+ Nakane Peter Ostafichuk Seyyed Alireza Bagherzadeh Hosseini.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term1-apsc-160-101-tue-0800@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:APSC 160 101
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270105T080000
+DTEND:20270105T093000
+LOCATION:CIRS (Centre for Interactive Research on Sustainability) (CIRS)\, 
+ Floor: 1\, Room: 1250
+DESCRIPTION:course\nTerm 1 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.\nInstructor: Cristian Sorin Grecu Geoffrey Tien
+ .
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term1-apsc-100-l1i-tue-1400@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:APSC 100 L1I
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270105T140000
+DTEND:20270105T160000
+LOCATION:Wayne and William White Engineering Design Centre (EDC)\, Floor: 3
+ \, Room: 301
+DESCRIPTION:course\nTerm 1 meeting mapped from weekday and time only.\nInst
+ ructional format: Studio.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term1-phys-157-101-wed-0900@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:PHYS 157 101
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270106T090000
+DTEND:20270106T100000
+LOCATION:Hebb Building (HEBB)\, Floor: 1\, Room: 100
+DESCRIPTION:course\nTerm 1 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.\nInstructor: Amali Priyanka Jambuge.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term1-math-100-1a3-wed-1200@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:MATH 100 1A3
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270106T120000
+DTEND:20270106T140000
+LOCATION:P. A. Woodward Instructional Resources Centre (IRC)\, Floor: G\, R
+ oom: 2
+DESCRIPTION:course\nTerm 1 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term1-chem-121-103-wed-1500@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:CHEM 121 103
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270106T150000
+DTEND:20270106T160000
+LOCATION:Chemistry Building - B\, C\, D\, E (CHEM)\, Floor: -1\, Room: B150
+DESCRIPTION:course\nTerm 1 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term1-apsc-160-101-thu-0800@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:APSC 160 101
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270107T080000
+DTEND:20270107T093000
+LOCATION:CIRS (Centre for Interactive Research on Sustainability) (CIRS)\, 
+ Floor: 1\, Room: 1250
+DESCRIPTION:course\nTerm 1 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.\nInstructor: Cristian Sorin Grecu Geoffrey Tien
+ .
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term1-apsc-160-l1j-thu-1000@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:APSC 160 L1J
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270107T100000
+DTEND:20270107T120000
+LOCATION:Civil and Mechanical Engineering Building (CEME)\, Floor: 2\, Room
+ : 2212
+DESCRIPTION:course\nTerm 1 meeting mapped from weekday and time only.\nInst
+ ructional format: Laboratory.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term1-phys-157-tc1-thu-1300@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:PHYS 157 TC1
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270107T130000
+DTEND:20270107T140000
+LOCATION:Hebb Building (HEBB)\, Floor: 2\, Room: 218
+DESCRIPTION:course\nTerm 1 meeting mapped from weekday and time only.\nInst
+ ructional format: Discussion.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term1-chem-121-l71-thu-1400@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:CHEM 121 L71
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270107T140000
+DTEND:20270107T170000
+DESCRIPTION:course\nTerm 1 meeting mapped from weekday and time only.\nInst
+ ructional format: Laboratory.\nInstructor: Anne Thomas.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term1-phys-157-101-fri-0900@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:PHYS 157 101
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270108T090000
+DTEND:20270108T100000
+LOCATION:Hebb Building (HEBB)\, Floor: 1\, Room: 100
+DESCRIPTION:course\nTerm 1 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.\nInstructor: Amali Priyanka Jambuge.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term1-chem-121-103-fri-1500@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:CHEM 121 103
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270108T150000
+DTEND:20270108T160000
+LOCATION:Chemistry Building - B\, C\, D\, E (CHEM)\, Floor: -1\, Room: B150
+DESCRIPTION:course\nTerm 1 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term1-apsc-100-104-fri-1600@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:APSC 100 104
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270108T160000
+DTEND:20270108T170000
+LOCATION:UBC Life Building (LIFE)\, Floor: 2\, Room: 2201
+DESCRIPTION:course\nTerm 1 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.\nInstructor: Amir M. Dehkhoda Carol Jaeger Jon 
+ Nakane Peter Ostafichuk Seyyed Alireza Bagherzadeh Hosseini.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term2-bmeg-101-201-mon-0800@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:BMEG 101 201
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270111T080000
+DTEND:20270111T090000
+LOCATION:Gordon B. Shrum Building (SHRM)\, Floor: -1\, Room: B1009
+DESCRIPTION:course\nTerm 2 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.\nInstructor: Govind Kaigala Robyn Newell Stefan
+ ie Blain-Moraes.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term2-phys-158-201-mon-0900@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:PHYS 158 201
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270111T090000
+DTEND:20270111T100000
+LOCATION:Hebb Building (HEBB)\, Floor: 1\, Room: 100
+DESCRIPTION:course\nTerm 2 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.\nInstructor: Michael Hasinoff.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term2-chem-123-211-mon-1100@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:CHEM 123 211
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270111T110000
+DTEND:20270111T120000
+LOCATION:Chemistry Building - B\, C\, D\, E (CHEM)\, Floor: 1\, Room: B250
+DESCRIPTION:course\nTerm 2 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term2-math-152-205-mon-1200@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:MATH 152 205
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270111T120000
+DTEND:20270111T130000
+LOCATION:Forest Sciences Centre (FSC)\, Floor: 1\, Room: 1005
+DESCRIPTION:course\nTerm 2 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term2-math-101-a12-mon-1300@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:MATH 101 A12
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270111T130000
+DTEND:20270111T140000
+LOCATION:The Leonard S. Klinck Building (LSK)\, Floor: 4\, Room: 460
+DESCRIPTION:course\nTerm 2 meeting mapped from weekday and time only.\nInst
+ ructional format: Discussion.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term2-math-101-2a1-tue-0800@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:MATH 101 2A1
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270112T080000
+DTEND:20270112T100000
+LOCATION:P. A. Woodward Instructional Resources Centre (IRC)\, Floor: G\, R
+ oom: 2
+DESCRIPTION:course\nTerm 2 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term2-bmeg-102-l2a-tue-1000@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:BMEG 102 L2A
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270112T100000
+DTEND:20270112T120000
+LOCATION:Gordon B. Shrum Building (SHRM)\, Floor: 2\, Room: 2053
+DESCRIPTION:course\nTerm 2 meeting mapped from weekday and time only.\nInst
+ ructional format: Laboratory.\nInstructor: Gabrielle Lam.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term2-bmeg-102-201-tue-1300@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:BMEG 102 201
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270112T130000
+DTEND:20270112T140000
+LOCATION:Hugh Dempster Pavilion (DMP)\, Floor: 1\, Room: 110
+DESCRIPTION:course\nTerm 2 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.\nInstructor: Gabrielle Lam.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term2-phys-170-202-tue-1400@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:PHYS 170 202
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270112T140000
+DTEND:20270112T153000
+LOCATION:UBC Life Building (LIFE)\, Floor: 2\, Room: 2201
+DESCRIPTION:course\nTerm 2 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.\nInstructor: Matthew Choptuik.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term2-bmeg-101-201-wed-0800@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:BMEG 101 201
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270113T080000
+DTEND:20270113T090000
+LOCATION:Gordon B. Shrum Building (SHRM)\, Floor: -1\, Room: B1009
+DESCRIPTION:course\nTerm 2 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.\nInstructor: Govind Kaigala Robyn Newell Stefan
+ ie Blain-Moraes.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term2-phys-158-201-wed-0900@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:PHYS 158 201
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270113T090000
+DTEND:20270113T100000
+LOCATION:Hebb Building (HEBB)\, Floor: 1\, Room: 100
+DESCRIPTION:course\nTerm 2 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.\nInstructor: Michael Hasinoff.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term2-chem-123-211-wed-1100@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:CHEM 123 211
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270113T110000
+DTEND:20270113T120000
+LOCATION:Chemistry Building - B\, C\, D\, E (CHEM)\, Floor: 1\, Room: B250
+DESCRIPTION:course\nTerm 2 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term2-math-152-205-wed-1200@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:MATH 152 205
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270113T120000
+DTEND:20270113T130000
+LOCATION:Forest Sciences Centre (FSC)\, Floor: 1\, Room: 1005
+DESCRIPTION:course\nTerm 2 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term2-math-152-l2e-wed-1500@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:MATH 152 L2E
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270113T150000
+DTEND:20270113T160000
+DESCRIPTION:course\nTerm 2 meeting mapped from weekday and time only.\nInst
+ ructional format: Laboratory.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term2-bmeg-101-t2a-wed-1700@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:BMEG 101 T2A
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270113T170000
+DTEND:20270113T183000
+LOCATION:Gordon B. Shrum Building (SHRM)\, Floor: -1\, Room: B1009
+DESCRIPTION:course\nTerm 2 meeting mapped from weekday and time only.\nInst
+ ructional format: Discussion.\nInstructor: Govind Kaigala Robyn Newell Ste
+ fanie Blain-Moraes.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term2-phys-170-t2i-thu-1100@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:PHYS 170 T2I
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270114T110000
+DTEND:20270114T120000
+LOCATION:Hennings Building (HENN)\, Floor: 1\, Room: 201
+DESCRIPTION:course\nTerm 2 meeting mapped from weekday and time only.\nInst
+ ructional format: Discussion.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term2-phys-158-tj2-thu-1230@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:PHYS 158 TJ2
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270114T123000
+DTEND:20270114T133000
+LOCATION:Chemistry Building - B\, C\, D\, E (CHEM)\, Floor: -1\, Room: C124
+DESCRIPTION:course\nTerm 2 meeting mapped from weekday and time only.\nInst
+ ructional format: Discussion.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term2-phys-170-202-thu-1400@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:PHYS 170 202
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270114T140000
+DTEND:20270114T153000
+LOCATION:UBC Life Building (LIFE)\, Floor: 2\, Room: 2201
+DESCRIPTION:course\nTerm 2 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.\nInstructor: Matthew Choptuik.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term2-bmeg-101-201-fri-0800@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:BMEG 101 201
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270115T080000
+DTEND:20270115T090000
+LOCATION:Gordon B. Shrum Building (SHRM)\, Floor: -1\, Room: B1009
+DESCRIPTION:course\nTerm 2 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.\nInstructor: Govind Kaigala Robyn Newell Stefan
+ ie Blain-Moraes.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term2-phys-158-201-fri-0900@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:PHYS 158 201
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270115T090000
+DTEND:20270115T100000
+LOCATION:Hebb Building (HEBB)\, Floor: 1\, Room: 100
+DESCRIPTION:course\nTerm 2 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.\nInstructor: Michael Hasinoff.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term2-chem-123-211-fri-1100@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:CHEM 123 211
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270115T110000
+DTEND:20270115T120000
+LOCATION:Chemistry Building - B\, C\, D\, E (CHEM)\, Floor: 1\, Room: B250
+DESCRIPTION:course\nTerm 2 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term2-math-152-205-fri-1200@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:MATH 152 205
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270115T120000
+DTEND:20270115T130000
+LOCATION:Forest Sciences Centre (FSC)\, Floor: 1\, Room: 1005
+DESCRIPTION:course\nTerm 2 meeting mapped from weekday and time only.\nInst
+ ructional format: Lecture.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yacines-timetable-term2-chem-123-l91-fri-1400@lifeos.local
+DTSTAMP:20260610T132502
+SUMMARY:CHEM 123 L91
+CREATED:20260610T132502
+LAST-MODIFIED:20260610T132502
+SEQUENCE:0
+DTSTART:20270115T140000
+DTEND:20270115T170000
+DESCRIPTION:course\nTerm 2 meeting mapped from weekday and time only.\nInst
+ ructional format: Laboratory.\nInstructor: Anne Thomas.
+TRANSP:OPAQUE
+CATEGORIES:yacines-timetable,course,term2
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
