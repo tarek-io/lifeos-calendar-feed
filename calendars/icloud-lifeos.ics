@@ -601,6 +601,103 @@ CATEGORIES:icloud-lifeos,course,stat-251,course-calendar,lecture_meeting,co
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:course-calendar-stat-251-office-hours-2026-06-19-zhang@lifeos.local
+DTSTAMP:20260619T152637
+SUMMARY:STAT 251 Office Hours — Justin Zhang (online)
+CREATED:20260619T152637
+LAST-MODIFIED:20260619T152637
+SEQUENCE:0
+DTSTART:20260619T110000
+DTEND:20260619T120000
+LOCATION:Online (Zoom link via Canvas Zoom tab)
+DESCRIPTION:course\nManaged by STAT 251 course sync.\nMore office hours pag
+ e lists Justin Zhang\, Friday June 19\, 11 to 12\, online.
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,office_hour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:course-calendar-stat-251-office-hours-2026-06-19-liu-1@lifeos.local
+DTSTAMP:20260619T152637
+SUMMARY:STAT 251 Office Hours — Jiaping (Olivia) Liu (online)
+CREATED:20260619T152637
+LAST-MODIFIED:20260619T152637
+SEQUENCE:0
+DTSTART:20260619T160000
+DTEND:20260619T170000
+LOCATION:Online (Zoom link via Canvas Zoom tab)
+DESCRIPTION:course\nManaged by STAT 251 course sync.\nMore office hours pag
+ e lists Jiaping Liu\, Friday June 19\, 4 to 5\, online.
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,office_hour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:course-calendar-stat-251-office-hours-2026-06-19-liu-2@lifeos.local
+DTSTAMP:20260619T152637
+SUMMARY:STAT 251 Office Hours — Jiaping (Olivia) Liu (online)
+CREATED:20260619T152637
+LAST-MODIFIED:20260619T152637
+SEQUENCE:0
+DTSTART:20260619T170000
+DTEND:20260619T180000
+LOCATION:Online (Zoom link via Canvas Zoom tab)
+DESCRIPTION:course\nManaged by STAT 251 course sync.\nMore office hours pag
+ e lists Jiaping Liu\, Friday June 19\, 5 to 6\, online.
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,office_hour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:course-calendar-stat-251-office-hours-2026-06-22-li-1@lifeos.local
+DTSTAMP:20260619T152637
+SUMMARY:STAT 251 Office Hours — Shirlina Li (online)
+CREATED:20260619T152637
+LAST-MODIFIED:20260619T152637
+SEQUENCE:0
+DTSTART:20260622T100000
+DTEND:20260622T110000
+LOCATION:Online (Zoom link via Canvas Zoom tab)
+DESCRIPTION:course\nManaged by STAT 251 course sync.\nMore office hours pag
+ e lists Shirlina Li\, Monday June 22\, 10 to 11\, online.
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,office_hour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:course-calendar-stat-251-office-hours-2026-06-22-li-2@lifeos.local
+DTSTAMP:20260619T152637
+SUMMARY:STAT 251 Office Hours — Shirlina Li (online)
+CREATED:20260619T152637
+LAST-MODIFIED:20260619T152637
+SEQUENCE:0
+DTSTART:20260622T110000
+DTEND:20260622T120000
+LOCATION:Online (Zoom link via Canvas Zoom tab)
+DESCRIPTION:course\nManaged by STAT 251 course sync.\nMore office hours pag
+ e lists Shirlina Li\, Monday June 22\, 11 to 12\, online.
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,office_hour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:course-calendar-stat-251-office-hours-2026-06-22-dasgupta-1@lifeos.loca
+ l
+DTSTAMP:20260619T152637
+SUMMARY:STAT 251 Office Hours — Dibbya Dasgupta (online)
+CREATED:20260619T152637
+LAST-MODIFIED:20260619T152637
+SEQUENCE:0
+DTSTART:20260622T170000
+DTEND:20260622T180000
+LOCATION:Online (Zoom link via Canvas Zoom tab)
+DESCRIPTION:course\nManaged by STAT 251 course sync.\nMore office hours pag
+ e lists Dibbya Dasgupta\, Monday June 22\, 5 to 6\, online.
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,office_hour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:course-calendar-apsc-262-rezero-tutorial-2026-06-22@lifeos.local
 DTSTAMP:20260609T013540
 SUMMARY:APSC 262 Tutorial Groups 13-18
@@ -618,6 +715,103 @@ CATEGORIES:icloud-lifeos,course,course-calendar,tutorial_meeting
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:course-calendar-stat-251-office-hours-2026-06-22-dasgupta-2@lifeos.loca
+ l
+DTSTAMP:20260619T152637
+SUMMARY:STAT 251 Office Hours — Dibbya Dasgupta (online)
+CREATED:20260619T152637
+LAST-MODIFIED:20260619T152637
+SEQUENCE:0
+DTSTART:20260622T180000
+DTEND:20260622T190000
+LOCATION:Online (Zoom link via Canvas Zoom tab)
+DESCRIPTION:course\nManaged by STAT 251 course sync.\nMore office hours pag
+ e lists Dibbya Dasgupta\, Monday June 22\, 6 to 7\, online.
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,office_hour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:course-calendar-stat-251-office-hours-2026-06-23-lasantha@lifeos.local
+DTSTAMP:20260619T152637
+SUMMARY:STAT 251 Office Hours — Lasantha (online)
+CREATED:20260619T152637
+LAST-MODIFIED:20260619T152637
+SEQUENCE:0
+DTSTART:20260623T120000
+DTEND:20260623T130000
+LOCATION:Online (Zoom link via Canvas Zoom tab)
+DESCRIPTION:course\nManaged by STAT 251 course sync.\nMore office hours pag
+ e lists Lasantha\, Tuesday June 23\, 12 to 1\, online.
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,office_hour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:course-calendar-stat-251-office-hours-2026-06-23-zhang-1@lifeos.local
+DTSTAMP:20260619T152637
+SUMMARY:STAT 251 Office Hours — Justin Zhang (online)
+CREATED:20260619T152637
+LAST-MODIFIED:20260619T152637
+SEQUENCE:0
+DTSTART:20260623T140000
+DTEND:20260623T150000
+LOCATION:Online (Zoom link via Canvas Zoom tab)
+DESCRIPTION:course\nManaged by STAT 251 course sync.\nMore office hours pag
+ e lists Justin Zhang\, Tuesday June 23\, 2 to 3\, online.
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,office_hour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:course-calendar-stat-251-office-hours-2026-06-23-zhang-2@lifeos.local
+DTSTAMP:20260619T152637
+SUMMARY:STAT 251 Office Hours — Justin Zhang (online)
+CREATED:20260619T152637
+LAST-MODIFIED:20260619T152637
+SEQUENCE:0
+DTSTART:20260623T150000
+DTEND:20260623T160000
+LOCATION:Online (Zoom link via Canvas Zoom tab)
+DESCRIPTION:course\nManaged by STAT 251 course sync.\nMore office hours pag
+ e lists Justin Zhang\, Tuesday June 23\, 3 to 4\, online.
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,office_hour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:course-calendar-stat-251-office-hours-2026-06-24-jesse-1@lifeos.local
+DTSTAMP:20260619T152637
+SUMMARY:STAT 251 Office Hours — Jesse Schneider (online)
+CREATED:20260619T152637
+LAST-MODIFIED:20260619T152637
+SEQUENCE:0
+DTSTART:20260624T150000
+DTEND:20260624T160000
+LOCATION:Online (Zoom link via Canvas Zoom tab)
+DESCRIPTION:course\nManaged by STAT 251 course sync.\nMore office hours pag
+ e lists Jesse Schneider\, Wednesday June 24\, 3 to 4\, online.
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,office_hour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:course-calendar-stat-251-office-hours-2026-06-24-jesse-2@lifeos.local
+DTSTAMP:20260619T152637
+SUMMARY:STAT 251 Office Hours — Jesse Schneider (online)
+CREATED:20260619T152637
+LAST-MODIFIED:20260619T152637
+SEQUENCE:0
+DTSTART:20260624T160000
+DTEND:20260624T170000
+LOCATION:Online (Zoom link via Canvas Zoom tab)
+DESCRIPTION:course\nManaged by STAT 251 course sync.\nMore office hours pag
+ e lists Jesse Schneider\, Wednesday June 24\, 4 to 5\, online.
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,office_hour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:course-calendar-apsc-262-rezero-tutorial-2026-06-24@lifeos.local
 DTSTAMP:20260609T013540
 SUMMARY:APSC 262 Tutorial Groups 13-18
@@ -632,6 +826,23 @@ DESCRIPTION:course\nManaged by APSC 262 course sync.\nLive Zoom list showed
  ==---
 TRANSP:OPAQUE
 CATEGORIES:icloud-lifeos,course,course-calendar,tutorial_meeting
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:course-calendar-stat-251-final-exam-2026-06-24@lifeos.local
+DTSTAMP:20260619T152637
+SUMMARY:STAT 251 Final Exam
+CREATED:20260619T152637
+LAST-MODIFIED:20260619T152637
+SEQUENCE:0
+DTSTART:20260624T190000
+DTEND:20260624T213000
+LOCATION:Irving K. Barber Learning Centre\, Room 2 (IRC 2)
+DESCRIPTION:course\nManaged by STAT 251 course sync.\nFinal Exam page says 
+ Wednesday June 24 at 7:00 PM at IRC 2\; exam time 7:00pm to 9:30pm\, close
+ d book\, 2.5 hours.
+TRANSP:OPAQUE
+CATEGORIES:icloud-lifeos,course,course-calendar,exam_meeting
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
